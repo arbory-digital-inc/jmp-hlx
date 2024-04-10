@@ -2,8 +2,8 @@
 This is the test POC site for JMP's Edge Delivery Migration
 
 ## Environments
-- Preview: https://main--jmp-hlx--treeves.hlx.page/
-- Live: https://main--jmp-hlx--treeves.hlx.live/
+- Preview: https://main--jmp-hlx--arbory-digital-inc.hlx.page/
+- Live: https://main--jmp-hlx--arbory-digital-inc.hlx.live/
 - Live CDN: https://hlx.opsinventor.com/
 ## Installation
 
